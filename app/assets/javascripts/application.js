@@ -14,8 +14,5 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require script
 //= require_tree .
-
-$(document).ready(function(){
-    console.log("jQuery está funcionando");
-});
